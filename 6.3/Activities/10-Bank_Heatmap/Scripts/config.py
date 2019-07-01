@@ -1,5 +1,5 @@
-# Enter your API keys
+# Enter your API keys located on desktop
 
-gkey = "AIzaSyDmbxunlYpkx51IY97Wm7xyB9aMWxKIFEw"
+gkey = "google key"
 
-census_key = "cc014c7ede31cac1f2f92540619596197923d319"
+census_key = "census key"
